@@ -1,6 +1,6 @@
-# SPEI Calculator (JavaScript)
+# SPEI Calculator (Java)
 
-A JavaScript implementation for calculating the Standardized Precipitation Evapotranspiration Index (SPEI) from climate data.
+A Java code implementation for calculating the Standardized Precipitation Evapotranspiration Index (SPEI) from climate data.
 
 ## Usage
 
